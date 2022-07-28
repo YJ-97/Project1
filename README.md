@@ -43,3 +43,7 @@ Ubion_Project1_T.V 이전 프로젝트
 ---
 데이터 부족과 모델의 예측력을 더 개선하는데 어려움이 있어 T.V프로젝트로 변경
 진행기간 5.6 ~ 5.15
+
+주 참고 논문
+---
+Overes, B.H.L., van der Wel, M. Modelling Sovereign Credit Ratings: Evaluating the Accuracy and Driving Factors using Machine Learning Techniques. Comput Econ (2022). https://doi.org/10.1007/s10614-022-10245-7
