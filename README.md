@@ -23,7 +23,7 @@ Trading Economic에서 세계 3대 신용평가회사인 Moody's, S&P, Fitch가 
 독립변수
 ---
 시점	인당_GDP	부채비율	실업률	상품및서비스수입	상품및서비스수출	정치적안정성	규제의질	경상수지
----
+
 출처 : KOICA 오픈데이터 포털 https://www.oda.go.kr/opo/
       TradingEconimics https://ko.tradingeconomics.com/
       IMF https://www.imf.org/en/Data
