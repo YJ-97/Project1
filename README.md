@@ -10,6 +10,8 @@ CCTV(CountryCreditTrustValuation)
 ---
 국가신용등급이란? 국가가 외국에서 빌린 돈을 갚을 수 있는 능력과 의지를 평가한 것이다. 
 
+맨 아래의 주 참고 논문을 기반으로 논문을 그대로 재현하고 나아가 성능 개선을 시도해보고자 한다.
+
 종속변수 (국가신용등급)
 ---
 Trading Economic에서 세계 3대 신용평가회사인 Moody's, S&P, Fitch가 산정한 나라별 신용등급을
@@ -23,6 +25,8 @@ Trading Economic에서 세계 3대 신용평가회사인 Moody's, S&P, Fitch가 
 시점	인당_GDP	부채비율	실업률	상품및서비스수입	상품및서비스수출	정치적안정성	규제의질	경상수지
 ---
 출처 : KOICA 오픈데이터 포털 https://www.oda.go.kr/opo/
+      TradingEconimics https://ko.tradingeconomics.com/
+      IMF https://www.imf.org/en/Data
 
 특이점
 ---
